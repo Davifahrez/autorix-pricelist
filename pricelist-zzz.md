@@ -48,7 +48,7 @@
 
 ## Main Story & Episodes [layout: accordion]
 
-### Prologue: Business x Strangeness [Bundle: 35k]
+### Session 1: Prologue: Business x Strangeness [Bundle: 35k]
 - Tutorial: 5k
 - The Hare and The Proxy: 5k
 - Logistic Disaster: 8k
@@ -56,14 +56,14 @@
 - Unlock Feature (Newbie): 5k
 - The Proxy and The Hare: 8k
 
-### Chapter 1: Cat's Lost & Found [Bundle: 55k]
+### Session 1: Chapter 1 Cat's Lost & Found [Bundle: 55k]
 - Nekomata Trial: 8k
 - Explosive Last Trial: 8k
 - Unlock Feature + Sim: 5k
 - Combat After Story: 10k
 - Early Ticket to Safety: 15k
 
-### Chapter 2: Belobog Heavy Industries [Bundle: 60k]
+### Session 1: Chapter 2 Belobog Heavy Industries [Bundle: 60k]
 - Somewhat Out of Control: 8k
 - Meeting Belobog Ind: 3k
 - Lets Go Bro: 8k
@@ -72,20 +72,20 @@
 - Speedy Chaser: 10k
 - Trace to the Source: 20k
 
-### Interlude: Chapter 2 [Bundle: 35k]
+### Session 1: Interlude Chapter 2 [Bundle: 35k]
 - Meet Zhuyuan and Qingyi: 5k
 - Fix Bangboo: 2k
 - Invisible Assistant: 8k
 - Looking Bangboo Job: 3k
 - A Perilous Duty: 20k
 
-### Chapter 3: Victoria Housekeeping [Bundle: 60k]
+### Session 1: Chapter 3 Victoria Housekeeping [Bundle: 60k]
 - Strange Message: 13k
 - Ascending Dance: 15k
 - Footprints in Darkness: 15k
 - Saving Hacker Rain: 17k
 
-### Chapter 4: Tour de Inferno [Bundle: 60k]
+### Session 1: Chapter 4 Tour de Inferno [Bundle: 60k]
 - Opening: 5k
 - Quick Thinking Self-Rescue: 10k
 - Unexpected Challenge: 10k
@@ -94,7 +94,7 @@
 - Betrayed or Not: 12k
 - The Race of the Hero: 12k
 
-### Chapter 5: Recent Updates [Bundle: 53k]
+### Session 1: Chapter 5 Recent Updates [Bundle: 53k]
 - Wonderful Day in Hollow: 8k
 - Meet Nicole and Everyone: 2k
 - The Missing Witness: 8k
@@ -107,12 +107,17 @@
 - Bury Your Tears With the Past (A) : 48k 
 - Bury Your Tears With the Past (B): 48k
 
-### Season 2: New Eridu [Bundle: 350k]
-- Chapter 1 (2.0): 120k
-- Chapter 2: 70k
-- Chapter 3: 60k
-- Chapter 4: 60k
-- Chapter 5: 70k
+### Season 2: Chapter 1 Where Clouds Embrace the Dawn: 120k
+
+### Season 2: Chapter 2 The Impending Crash of Waves: 70k
+
+### Season 2: Chapter 3 Do Not Go Gentle Into That Good Night: 60k
+
+### Season 2: Chapter 4 Memories of Dreams Bygone: 60k
+
+### Season 2: Chapter 5 On the Precipice of the Abyss: 60k
+
+### Chapter 6 To Be Fuel for the Night: 70k
 
 ### Agent Stories
 - Agent Story Quest (Per Act): 10k
@@ -159,4 +164,5 @@
 - Critical 4-6: 70k
 - Critical 7: 110k
 - All Clear Critical: 160k
+
 
