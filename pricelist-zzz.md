@@ -1,6 +1,7 @@
 # AUTORIX STORE - ZZZ Price List
 
-## Logistik Berkala
+## Logistik Berkala [layout: grid]
+
 ### Daily Cycle
 - Daily Only (No Charge): 3k
 - Daily + 240 Charge: 6k
@@ -19,7 +20,10 @@
 - Above + Hollow Zero x1: 360k
 - Full Monthly + HZ x2: 410k
 
-## Farming & Exploration
+---
+
+## Farming & Exploration [layout: grid]
+
 ### Combat & Resources
 - Combat Sim (60-80): 1k
 - Combat Sim (80-100): 2k
@@ -33,11 +37,17 @@
 - Mew-Mew Dialogue: 1k
 - Fix Bangboo: 2k
 
-## Story Bundles
-### BUNDLE: PHAETHON GOD MODE
+---
+
+## Story Bundles [layout: accordion]
+
+### Phaethon God Mode [Bundle: 380k]
 - Full Completion (Prologue - Tour de Inferno): 380k
 
-## Main Story & Episodes
+---
+
+## Main Story & Episodes [layout: accordion]
+
 ### Prologue: Business x Strangeness [Bundle: 35k]
 - Tutorial: 5k
 - The Hare and The Proxy: 5k
@@ -53,17 +63,17 @@
 - Combat After Story: 10k
 - Early Ticket to Safety: 15k
 
-### Chapter 2: Belobog Heavy Industries [Bundle: 75k -> 60k]
+### Chapter 2: Belobog Heavy Industries [Bundle: 60k]
 - Somewhat Out of Control: 8k
 - Meeting Belobog Ind: 3k
-- Let’s Go Bro: 8k
+- Lets Go Bro: 8k
 - Mechanical Love: 8k
 - Unlock Expert Challenge: 4k
 - Speedy Chaser: 10k
 - Trace to the Source: 20k
 
 ### Interlude: Chapter 2 [Bundle: 35k]
-- Meet Zhuyuan & Qingyi: 5k
+- Meet Zhuyuan and Qingyi: 5k
 - Fix Bangboo: 2k
 - Invisible Assistant: 8k
 - Looking Bangboo Job: 3k
@@ -75,7 +85,7 @@
 - Footprints in Darkness: 15k
 - Saving Hacker Rain: 17k
 
-### Chapter 4: Tour de Inferno [Bundle: 75k -> 60k]
+### Chapter 4: Tour de Inferno [Bundle: 60k]
 - Opening: 5k
 - Quick Thinking Self-Rescue: 10k
 - Unexpected Challenge: 10k
@@ -86,7 +96,7 @@
 
 ### Chapter 5: Recent Updates [Bundle: 53k]
 - Wonderful Day in Hollow: 8k
-- Meet Nicole & Everyone: 2k
+- Meet Nicole and Everyone: 2k
 - The Missing Witness: 8k
 - Dead-End Express: 10k
 - Domain Miyabi: 12k
@@ -96,7 +106,7 @@
 ### Season 1: Epilogue
 - Season 1 Epilogue All Clear: 93k
 
-### Season 2: New Eridu [Bundle: 350k!]
+### Season 2: New Eridu [Bundle: 350k]
 - Chapter 1 (2.0): 120k
 - Chapter 2: 70k
 - Chapter 3: 60k
@@ -106,7 +116,10 @@
 ### Agent Stories
 - Agent Story Quest (Per Act): 10k
 
-## Hollow & Endgame
+---
+
+## Hollow & Endgame [layout: accordion]
+
 ### Hollow Zero
 - Qualification Assessment: 5k
 
@@ -139,6 +152,7 @@
 ### Shiyu Defense
 - Frontier Nodes (I-V): 20k
 - Stable Nodes (VI+): 35k
+
 #### Critical Nodes (Ether)
 - Critical 1-3: 25k
 - Critical 4-6: 70k
