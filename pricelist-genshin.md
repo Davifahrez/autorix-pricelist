@@ -100,7 +100,7 @@
 - Paha Isle: 50k
 - Lempo Isle: 50k
 
-### Collect All Oculus
+### Collect All Oculus [Bundle: 800k]
 - Anemoculus: 50k
 - Geoculus: 85k
 - Electroculus: 115k
@@ -185,3 +185,4 @@
 - Mini-game Frontline Recon (All Clear): 12k
 - Mini-game Jade Pitching (All Clear): 12k
 - Mini-game Trial of Valor (All Clear): 20k
+
