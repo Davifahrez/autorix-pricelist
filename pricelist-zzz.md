@@ -103,8 +103,9 @@
 - Talk with People: 3k
 - Emergency Pursuit: 10k
 
-### Season 1: Epilogue
-- Season 1 Epilogue All Clear: 93k
+### Season 1: Epilogue [Bundle: 93k]
+- Bury Your Tears With the Past (A) : 48k 
+- Bury Your Tears With the Past (B): 48k
 
 ### Season 2: New Eridu [Bundle: 350k]
 - Chapter 1 (2.0): 120k
@@ -158,3 +159,4 @@
 - Critical 4-6: 70k
 - Critical 7: 110k
 - All Clear Critical: 160k
+
