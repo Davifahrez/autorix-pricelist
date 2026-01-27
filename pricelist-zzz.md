@@ -107,17 +107,69 @@
 - Bury Your Tears With the Past (A) : 48k 
 - Bury Your Tears With the Past (B): 48k
 
-### Season 2: Chapter 1 Where Clouds Embrace the Dawn: 120k
+### Season 2: Chapter 1 Where Clouds Embrace the Dawn [Bundle: 120k]
+- Yunkui Visitor : 3k
+- Attack from the Shadows : 3k
+- Dispel the Darkness : 3k
+- Welcome to Suibian Temple! : 11k
+- Land of Rising Turmoil : 30k
+- Eaves and Brackets, Renewed in Light : 11k
+- Lurking Menace in the Shadows : 24k
+- Calamity Casts a Shadow, Yet Shows No Sign : 12k
+- Lurking Waves : 6k
+- Yunkui Disciples Re-Emerge : 20k
+- The Storm Has Settled, but Ripples Remain : 3k
 
-### Season 2: Chapter 2 The Impending Crash of Waves: 70k
+### Season 2: Chapter 2 The Impending Crash of Waves [Bundle: 70k]
+- Safety Inspection : 6k
+- Prank Perpetrator : 6k
+- Sailume Bay Pursuit : 9k
+- Source of the Obscuras : 14k
+- Secret Past : 18k
+- A Bond Returned : 13k
+- Leisurely Lull - Untold Secrets : 4k
 
-### Season 2: Chapter 3 Do Not Go Gentle Into That Good Night: 60k
+### Season 2: Chapter 3 Do Not Go Gentle Into That Good Night [Bundle: 60k]
+- Last Night's Ashes : 15k
+- The Winner's Rules : 14k
+- Soldier's Creed : 5k
+- Dawn of Karmic Fire : 8k
+- An Incomplete Story : 18k
 
-### Season 2: Chapter 4 Memories of Dreams Bygone: 60k
+### Season 2: Chapter 4 Memories of Dreams Bygone [Bundle: 60k]
+- Haven in the Miasma : 5k
+- Subtle Anomaly : 5k
+- The Town : 4k
+- Clear the Mist : 4k
+- Half-Awake Person : 11k
+- New Helpers : 3k
+- The Weight of the Self-Bound : 10k
+- Time to Awaken From the Dream : 2k
+- Showdown at the Town : 7k
+- Lantern Games : 8k
+- Our Fates Intertwine Tonight : 3k
 
-### Season 2: Chapter 5 On the Precipice of the Abyss: 60k
+### Season 2: Chapter 5 On the Precipice of the Abyss [Bundle: 60k]
+- Light Dances, Water Ripples : 3k
+- Old Friends, New Stories : 8k
+- Gentle Words and Quiet Rest : 3k
+- Tracking Down Clues : 5k
+- Undercurrent Beneath the Rock : 5k
+- Old Ground, Fresh Scars : 7k
+- True Name Like a Lock : 3k
+- A Short Warm Night's Rest : 10k
+- A Sudden Change : 3k
+- Cast a Stone Into the Abyss : 10k
+- Light and Shadow Intertwined : 4k
 
-### Chapter 6 To Be Fuel for the Night: 70k
+### Chapter 6 To Be Fuel for the Night: [Bundle: 75k]
+- Another Her : 6k 
+- First Signs : 14k 
+- Be the Blade : 14k 
+- Qingming Curse : 13k 
+- Facing The Creator : 11k 
+- Void Hunter Anointment : 5k 
+
 
 ### Agent Stories
 - Agent Story Quest (Per Act): 10k
@@ -164,5 +216,6 @@
 - Critical 4-6: 70k
 - Critical 7: 110k
 - All Clear Critical: 160k
+
 
 
