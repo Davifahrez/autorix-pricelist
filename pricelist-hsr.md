@@ -42,7 +42,7 @@
 - Full Story Bundle: 390k
 
 ### Selesaiin Semua Dong Bang [Bundle: 460k]
-- Complete Everything: 460k
+- Full Story Bundle + Trailblaze Continuance : 460k
 
 ---
 
@@ -368,3 +368,4 @@
 - Stellar Jade 1600 (TL 1-60): 25k
 - Stellar Jade 1600 (TL 60+): 35k
 - E6 Remembrance MC: 15k
+
