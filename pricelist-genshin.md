@@ -26,8 +26,6 @@
 * Full Patch – Daily + Resin + 3× Boss: 360k
 * Full Patch – Daily + Resin + Boss + BP: 450k
 
----
-
 ## Exploration Maps [layout: accordion]
 
 ### GLOBAL EXPLORATION
@@ -125,8 +123,6 @@
 * Crimson Agate: 50k
 * Lumenspar: 65k
 
----
-
 ## Story & Quests [layout: accordion]
 
 ### Main Story
@@ -145,8 +141,6 @@
 * Book Aranyaka: 75k
 * 76 Aranara Hunt: 80k
 
----
-
 ## Character Building [layout: grid]
 
 ### Progression [Bundle: 165k]
@@ -155,8 +149,6 @@
 * Ascend Weapon 1–90: 60k
 * Build Talent (3 Crown): 75k
 * Build Artifacts: 65k
-
----
 
 ## Farming & Materials [layout: grid]
 
@@ -172,8 +164,6 @@
 * Cooking Ingredients: 0.2k
 * Wood: 0.15k
 * Stone / Batu: 0.25k
-
----
 
 ## Endgame & Misc [layout: grid]
 
@@ -196,8 +186,6 @@
 * Teapot Level 4–7: 70k
 * Teapot Level 7–10: 90k
 
----
-
 ## Events [layout: accordion]
 
 ### Soulblazers’ Snowbound Journey
@@ -209,3 +197,4 @@
 * Mini-game Frontline Recon (All Clear): 12k
 * Mini-game Jade Pitching (All Clear): 12k
 * Mini-game Trial of Valor (All Clear): 20k
+
