@@ -26,7 +26,7 @@
 
 ## Exploration Maps [layout: accordion]
 
-### GLOBAL EXPLORATION
+### GLOBAL EXPLORATION [Bundle: 3100k]
 - Exploration All Regions (Full Game): 3100k
 
 ### Mondstadt [Bundle: 125k]
@@ -185,4 +185,5 @@
 - Mini-game Frontline Recon (All Clear): 12k
 - Mini-game Jade Pitching (All Clear): 12k
 - Mini-game Trial of Valor (All Clear): 20k
+
 
