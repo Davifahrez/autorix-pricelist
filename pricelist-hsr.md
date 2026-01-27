@@ -359,35 +359,35 @@
 - Anomaly King Lvl 100: 40k
 
 ### Simulated Universe : Swarm Disaster
-* Difficulty 1-3: 20k
-* Difficulty 4-5: 30k
-* Open Propagation: 60k
-* Jejak Interelasi (Cuman misi stellar jade): 100k
-* Rahasia Trailblaze (42/42): 100k
-* Jalan Pathstrider Odyssey: 150k
-* LENGKAP CUMAN STELLAR JADE: 230k
-* LENGKAP SEMPURNA: 400K
+- Difficulty 1-3: 20k
+- Difficulty 4-5: 30k
+- Open Propagation: 60k
+- Jejak Interelasi (Cuman misi stellar jade): 100k
+- Rahasia Trailblaze (42/42): 100k
+- Jalan Pathstrider Odyssey: 150k
+- LENGKAP CUMAN STELLAR JADE: 230k
+- LENGKAP SEMPURNA: 400K
 
 ### Simulated Universe : Gold and Gears
-* Difficulty 1-3: 25k
-* Difficulty 4-5: 35k
-* Conundrum 1 - 3: 40k
-* Conundrum 4 - 8: 45k
-* Conundrum 9 - 12: 55k
-* Emas dan Mesin Nilai Kognitif: DM for Price
-* LENGKAP CUMAN STELLAR JADE: 230k
-* LENGKAP SEMPURNA: 300K
+- Difficulty 1-3: 25k
+- Difficulty 4-5: 35k
+- Conundrum 1 - 3: 40k
+- Conundrum 4 - 8: 45k
+- Conundrum 9 - 12: 55k
+- Emas dan Mesin Nilai Kognitif: DM for Price
+- LENGKAP CUMAN STELLAR JADE: 230k
+- LENGKAP SEMPURNA: 300K
 
 ### Simulated Universe : Zona Rahasia
-* Difficulty 1-3: 20k
-* Difficulty 4-5: 30k
-* Conundrum 1 - 3: 40k
-* Conundrum 4 - 8: 45k
-* Conundrum 9 - 12: 55k
-* Catatan Bionik: DM for Price
-* Model Restrukturisasi: DM for Price
-* LENGKAP CUMAN STELLAR JADE: 230k
-* LENGKAP SEMPURNA: 300K
+- Difficulty 1-3: 20k
+- Difficulty 4-5: 30k
+- Conundrum 1 - 3: 40k
+- Conundrum 4 - 8: 45k
+- Conundrum 9 - 12: 55k
+- Catatan Bionik: DM for Price
+- Model Restrukturisasi: DM for Price
+- LENGKAP CUMAN STELLAR JADE: 230k
+- LENGKAP SEMPURNA: 300K
 
 ### Divergent Universe
 - Protean Hero (I-V): 25k
@@ -399,6 +399,7 @@
 - Stellar Jade 1600 (TL 1-60): 25k
 - Stellar Jade 1600 (TL 60+): 35k
 - E6 Remembrance MC: 15k
+
 
 
 
