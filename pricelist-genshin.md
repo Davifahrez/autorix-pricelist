@@ -175,7 +175,7 @@
 
 ---
 
-## Events [layout: accordion]
+## Events [layout: grid]
 
 ### Soulblazers’ Snowbound Journey
 - All Clear Event: 75k
@@ -185,5 +185,6 @@
 - Mini-game Frontline Recon (All Clear): 12k
 - Mini-game Jade Pitching (All Clear): 12k
 - Mini-game Trial of Valor (All Clear): 20k
+
 
 
