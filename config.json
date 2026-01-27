@@ -1,7 +1,7 @@
 {
   "global": {
     "discount": {
-      "enabled": true,
+      "enabled": false,
       "type": "date",
       "percentage": 10,
       "startDate": "2026-01-01",
