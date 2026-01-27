@@ -1,4 +1,5 @@
-## Daily Services
+## Daily Services [layout: grid]
+
 ### Daily
 - Daily Only (No TP): 5k
 - Daily + 180 TP: 7k
@@ -20,7 +21,10 @@
 - Daily + 240 TP: 155k
 - Full Patch + SU/DU: 205k
 
-## Farming
+---
+
+## Farming [layout: grid]
+
 ### Combat & Resources
 - Calyx Batch (60 TP): 3k
 - Stagnant Shadow: 3k
@@ -30,14 +34,20 @@
 - Echo of War (Tier S): 10k
 - Mobs Cleansing: 1k
 
-## Story Bundles
-### BUNDLE: Selesaiin Storynya Aja
+---
+
+## Story Bundles [layout: accordion]
+
+### Selesaiin Storynya Aja [Bundle: 390k]
 - Full Story Bundle: 390k
 
-### BUNDLE: Selesaiin Semua Dong Bang
+### Selesaiin Semua Dong Bang [Bundle: 460k]
 - Complete Everything: 460k
 
-## Story Chapters
+---
+
+## Story Chapters [layout: accordion]
+
 ### Prologue: Herta Space Station [Bundle: 30k]
 - Chaos In the Deep: 2k
 - Eye of the Storm: 4k
@@ -198,7 +208,13 @@
 - Silver Chariot, Part With Epic: 4k
 - Fallen Petals, Fading Traces: 3k
 
-## Trailblaze Continuance [Bundle: 80k]
+---
+
+## Trailblaze Continuance [layout: accordion]
+
+### Trailblaze Continuance Bundle [Bundle: 80k]
+- Trailblaze Continuance (All): 80k
+
 ### Jarilo-VI: Jolted Wake [Bundle: 7k]
 - Future Market (I): 3.5k
 - Future Market (II): 3.5k
@@ -240,8 +256,11 @@
 - Asdanian Rhapsody: 1k
 - Battles Without Ninja: 3.5k
 
-## Exploration Maps
-### BUNDLE: Explore All Regions
+---
+
+## Exploration Maps [layout: accordion]
+
+### Explore All Regions [Bundle: 480k]
 - Full Map Completion: 480k
 
 ### Herta Space Station [Bundle: 30k]
@@ -312,13 +331,19 @@
 - Radiant Scarwood: 21k
 - Universal Matrix: 16k
 
-## Events & FOMO
+---
+
+## Events & FOMO [layout: grid]
+
 ### Events
 - Chrysos Awoo Champion: 25k
 - Nice Weather for Dromases: 40k
 - Chrysos Maze Restaurant: 40k
 
-## Endgame Stress
+---
+
+## Endgame Stress [layout: grid]
+
 ### Memory & Halls
 - Forgotten Hall (1-5): 15k
 - Forgotten Hall (6-15): 25k
@@ -342,4 +367,4 @@
 ### Farming & Misc
 - Stellar Jade 1600 (TL 1-60): 25k
 - Stellar Jade 1600 (TL 60+): 35k
-- E6 Remembrance MC: 15k    
+- E6 Remembrance MC: 15k
