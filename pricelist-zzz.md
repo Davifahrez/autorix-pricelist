@@ -162,7 +162,7 @@
 - Cast a Stone Into the Abyss : 10k
 - Light and Shadow Intertwined : 4k
 
-### Chapter 6 To Be Fuel for the Night: [Bundle: 75k]
+### Season 2: Chapter 6 To Be Fuel for the Night [Bundle: 75k]
 - Another Her : 6k 
 - First Signs : 14k 
 - Be the Blade : 14k 
@@ -216,6 +216,7 @@
 - Critical 4-6: 70k
 - Critical 7: 110k
 - All Clear Critical: 160k
+
 
 
 
