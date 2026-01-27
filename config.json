@@ -1,8 +1,16 @@
 {
   "global": {
-    "promoCopy": "Berlaku untuk 10 orang",
-    "promoEndText": "10 Februari 2026",
-    "discountPercentage": 10,
-    "isGrandOpening": false
+    "discount": {
+      "enabled": true,
+      "type": "date",
+      "percentage": 10,
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-10",
+      "peopleLimit": 0,
+      "peopleCount": 0,
+      "promoCopy": "Diskon diterapkan otomatis untuk semua layanan.",
+      "promoEndText": "10 Februari 2026",
+      "ribbonText": "GRAND OPENING"
+    }
   }
 }
