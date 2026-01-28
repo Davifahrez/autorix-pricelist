@@ -1,14 +1,16 @@
 ## Account Maintenance [layout: grid]
 
-### Include Factory
-- Weekly Account Maintenance (Include Factory): 100k
-- Monthly Account Maintenance (Include Factory): 300k
-- Patch Account Maintenance (Include Factory): 400k
+### Weekly Account Maintenance
+- Include Factory: 100k
+- Exclude Factory: 50k
 
-### Exclude Factory
-- Weekly Account Maintenance (Exclude Factory): 50k
-- Monthly Account Maintenance (Exclude Factory): 150k
-- Patch Account Maintenance (Exclude Factory): 200k
+### Monthly Account Maintenance
+– Include Factory: 300k
+– Exclude Factory: 150k
+
+### Patch Account Maintenance
+– Include Factory: 400k
+– Exclude Factory: 200k
 
 ---
 
