@@ -22,7 +22,7 @@
 
 ---
 
-## Story & Quests [layout: accordion]
+## Story & Quests [layout: grid]
 
 ### Main Story
 - Main Story Progression (Per Chapter): 40k
@@ -63,8 +63,6 @@
 - Unorthodox Tactics
 - Survive the Gas
 - Ballista and Axe
-
-### Stage Progression
 - Endgame Stage 1 Clear: 10k
 - Endgame Stage 2 Clear: 15k
 - Endgame Stage 3 Clear: 20k
