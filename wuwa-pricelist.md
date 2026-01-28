@@ -1,141 +1,91 @@
-# Wuthering Waves Services
+## Map Exploration [layout: accordion]
 
----
+### GLOBAL EXPLORATION [Bundle: 450k]
+- Exploration All Maps (100% + All Chests): 450k
 
-## Map Exploration [layout: grid]
-### Huanglong
-- Include Mt. Firmament  
-- Price: **180k**
+### Huanglong [Bundle: 180k]
+- Huanglong Exploration (Include Mt. Firmament): 180k
 
-### Black Shores
-- Price: **60k**
+### Black Shores [Bundle: 60k]
+- Black Shores Exploration (Full): 60k
 
-### Rinascita
-- Include Avinoleum + Septimont (2.6)  
-- Price: **250k**
+### Rinascita [Bundle: 250k]
+- Rinascita Exploration (Include Avinoleum + Septimont 2.6): 250k
 
-### Lahai Roi
-- Price: **120k**
-
-### BUNDLE: Complete Package All Map [Bundle: 610k -> 450k]
-- All Map 100%
-- Include all chests
+### Lahai Roi [Bundle: 120k]
+- Lahai Roi Exploration (Full): 120k
 
 ---
 
 ## Story & Quests [layout: accordion]
+
 ### Main Story
-- Huanglong (All): **60k**
-- Black Shores: **25k**
-- Rinascita (All): **100k**
-- Lahai Roi (All): **50k**
+- Main Story Huanglong (All Acts): 60k
+- Main Story Black Shores (All Acts): 25k
+- Main Story Rinascita (All Acts): 100k
+- Main Story Lahai Roi (All Acts): 50k
 
-### Side Quest
-- **2k / Quest**
-
-### Exploration Quest
-- **8k / Quest**
-
-### Companion Quest
-- **6k / Quest**
+### Side & Optional Quests
+- Side Quest Completion: 2k
+- Exploration Quest Completion: 8k
+- Companion Quest Completion: 6k
 
 ---
 
-## Account Maintenance [layout: grid]
-### Daily Service
-- 240 Waveplates (Requestable)
-- Daily Quest (100 Daily Points)
-- Price: **3k / Hari**
+## Daily Services [layout: grid]
 
-### Weekly Service
-- Price: **20k / Minggu**
+### Daily
+- Daily Quest + 240 Waveplates (100 Daily Points): 3k
 
-### Monthly Service
-- Price: **75k / Bulan**
+### Weekly
+- Weekly Daily Quest + Waveplates: 20k
 
-### Patch Package
-- Duration: 42 Hari
-- Price: **120k**
+### Monthly
+- Monthly Daily Quest + Waveplates: 75k
+
+### Full Patch (42 Days)
+- Full Patch Daily Quest + Waveplates: 120k
 
 ---
 
-## Events (All Rewards) [layout: accordion]
-### (P) Banners Never Fall
-- **45k**
+## Events [layout: accordion]
 
-### Scales of the Past
-- **1k / Node**
+### Limited Events
+- Banners Never Fall (All Rewards): 45k
+- Cube Anniversary Event (All Rewards): 60k
+- Dreaming Deep Event (All Endings): 75k
+- Your Summer Will Never Wither (Ciaccona Event): 20k
+- Somnium Labyrinth (All Rewards): 50k
+- Old Man and the Whale (All Rewards): 70k
+- Tidal Defense (All Rewards): 70k
 
-### (P) TCG Event
-- LVL 20  
-- Duration: 1–3 Minggu (Max EXP 5k/minggu)  
-- **50k**
-
-### (P) Cube Anniversary Event
-- **60k**
-
-### (P) Dreaming Deep (Event Pintu)
-- All Ending  
-- **75k**
-
-### (P) Your Summer Will Never Wither
-- Ciaccona Event  
-- **20k**
-
-### (P) Somnium Labyrinth
-- **50k**
-
-### (P) Old Man and the Whale
-- **70k**
-
-### (P) Tidal Defense
-- **70k**
-
-### Virtual Crisis
-- Max Risk  
-- **50k**
+### Progress-Based Events
+- Scales of the Past (Per Node Completion): 1k
+- TCG Event (Level 20 Completion): 50k
+- Virtual Crisis (Max Risk Completion): 50k
 
 ---
 
 ## Endgame Content [layout: grid]
 
-### Tower of Adversity (Biweekly)
-- 30 Star  
-- **25k**
+### Tower Content
+- Tower of Adversity (30 Star Completion): 25k
+- Tower of Adversity Overdrive Zone (18 Star Completion): 70k
 
-### Tower of Adversity – Overdrive Zone
-- 18 Star  
-- **70k**
-
-### Whimpering Wastes (Biweekly)
-- Stage 7–12  
-- 4500 Pts (Final Stage)  
-- **25k**
-
-### Whimpering Wastes (Complete)
-- Stage 1–12  
-- **50k**
+### Whimpering Wastes
+- Whimpering Wastes Biweekly (Stage 7–12 Completion): 25k
+- Whimpering Wastes Full Clear (Stage 1–12): 50k
 
 ---
 
-## Build & Farming [layout: grid]
-### Echo Farming
-- **800 / pcs**
+## Character Building & Farming [layout: grid]
 
-### Material Uncap (Field)
-- **400 / pcs**
+### Echo & Materials
+- Echo Farming (Single Echo): 0.8k
+- Material Uncap Farming (Field): 0.4k
+- Material Uncap Farming (Waveplates): 0.6k
 
-### Material Uncap (Waveplate)
-- **600 / pcs**
-
-### Character Upgrade Package
-- **40k**
-
-### Weapon Upgrade Package
-- **50k**
-
-### Character + Weapon Upgrade Package
-- **80k**
-
-> Metode Field Farm (kecuali Waveplate)  
-> Tune Echo: **langsung PM**
+### Upgrade Packages
+- Character Upgrade Package (Ascension + Talent): 40k
+- Weapon Upgrade Package (Ascension + Enhancement): 50k
+- Character + Weapon Upgrade Package (Full Build): 80k
