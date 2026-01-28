@@ -4,15 +4,15 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 
 ## Account Maintenance [layout: grid]
 
-### Weekly Account Maintenance
+### Weekly Account Maintenance (7 Hari)
 - Include Factory: 100k
 - Exclude Factory: 50k
 
-### Monthly Account Maintenance
+### Monthly Account Maintenance (30 Hari)
 – Include Factory: 300k
 – Exclude Factory: 150k
 
-### Patch Account Maintenance
+### Patch Account Maintenance (43 Hari)
 – Include Factory: 400k
 – Exclude Factory: 200k
 
