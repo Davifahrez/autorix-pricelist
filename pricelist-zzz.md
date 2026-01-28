@@ -1,4 +1,6 @@
-# AUTORIX STORE - ZZZ Price List
+---
+lastUpdated: 29 Jan 2026 01:59 WIB
+---
 
 ## Logistik Berkala [layout: grid]
 
@@ -216,6 +218,7 @@
 - Critical 4-6: 70k
 - Critical 7: 110k
 - All Clear Critical: 160k
+
 
 
 
