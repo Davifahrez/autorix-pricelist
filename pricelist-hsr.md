@@ -255,10 +255,6 @@
 ---
 
 ## Exploration Maps [layout: accordion]
-
-### Explore All Regions [Bundle: 456k]
-- Full Map Completion: 456k
-
 ### Herta Space Station [Bundle: 28.5k]
 - Master Control Zone: 5k
 - Base Zone: 10k
@@ -326,6 +322,9 @@
 - Warbling Shores: 25k
 - Radiant Scarwood: 20k
 - Universal Matrix: 15k
+
+### Explore All Regions [Bundle: 456k]
+- Full Map Completion: 456k
 
 ---
 
@@ -395,4 +394,5 @@
 - Stellar Jade 1600 (TL 1-60): 23.5k
 - Stellar Jade 1600 (TL 60+): 33.5k
 - E6 Remembrance MC: 14k
+
 
