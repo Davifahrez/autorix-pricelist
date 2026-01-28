@@ -36,17 +36,13 @@
 
 ---
 
-## Story Bundles [layout: accordion]
+## Story Chapters [layout: accordion]
 
 ### Selesaiin Storynya Aja [Bundle: 370.5k]
 - Full Story Bundle: 370.5k
 
 ### Selesaiin Semua Dong Bang [Bundle: 437k]
 - Full Story Bundle + Trailblaze Continuance : 437k
-
----
-
-## Story Chapters [layout: accordion]
 
 ### Prologue: Herta Space Station [Bundle: 28.5k]
 - Chaos In the Deep: 2k
@@ -399,3 +395,4 @@
 - Stellar Jade 1600 (TL 1-60): 23.5k
 - Stellar Jade 1600 (TL 60+): 33.5k
 - E6 Remembrance MC: 14k
+
