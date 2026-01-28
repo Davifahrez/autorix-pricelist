@@ -38,12 +38,6 @@
 
 ## Story Chapters [layout: accordion]
 
-### Selesaiin Storynya Aja [Bundle: 370.5k]
-- Full Story Bundle: 370.5k
-
-### Selesaiin Semua Dong Bang [Bundle: 437k]
-- Full Story Bundle + Trailblaze Continuance : 437k
-
 ### Prologue: Herta Space Station [Bundle: 28.5k]
 - Chaos In the Deep: 2k
 - Eye of the Storm: 4k
@@ -203,6 +197,12 @@
 - Pages, Ripples Engrave: 2.5k
 - Silver Chariot, Part With Epic: 4k
 - Fallen Petals, Fading Traces: 3k
+
+### Selesaiin Storynya Aja [Bundle: 370.5k]
+- Full Story Bundle: 370.5k
+
+### Selesaiin Semua Dong Bang [Bundle: 437k]
+- Full Story Bundle + Trailblaze Continuance : 437k
 
 ---
 
