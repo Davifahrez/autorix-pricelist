@@ -1,3 +1,34 @@
+## Daily Services [layout: grid]
+
+### Daily
+- Daily Quest + 240 Waveplates (100 Daily Points): 3k
+
+### Weekly
+- Weekly Daily Quest + Waveplates: 20k
+
+### Monthly
+- Monthly Daily Quest + Waveplates: 75k
+
+### Full Patch (42 Days)
+- Full Patch Daily Quest + Waveplates: 120k
+
+---
+
+## Story & Quests [layout: grid]
+
+### Main Story
+- Main Story Huanglong (All Acts): 60k
+- Main Story Black Shores (All Acts): 25k
+- Main Story Rinascita (All Acts): 100k
+- Main Story Lahai Roi (All Acts): 50k
+
+### Side & Optional Quests
+- Side Quest Completion: 2k
+- Exploration Quest Completion: 8k
+- Companion Quest Completion: 6k
+
+---
+
 ## Map Exploration [layout: accordion]
 
 ### GLOBAL EXPLORATION [Bundle: 450k]
@@ -17,38 +48,7 @@
 
 ---
 
-## Story & Quests [layout: accordion]
-
-### Main Story
-- Main Story Huanglong (All Acts): 60k
-- Main Story Black Shores (All Acts): 25k
-- Main Story Rinascita (All Acts): 100k
-- Main Story Lahai Roi (All Acts): 50k
-
-### Side & Optional Quests
-- Side Quest Completion: 2k
-- Exploration Quest Completion: 8k
-- Companion Quest Completion: 6k
-
----
-
-## Daily Services [layout: grid]
-
-### Daily
-- Daily Quest + 240 Waveplates (100 Daily Points): 3k
-
-### Weekly
-- Weekly Daily Quest + Waveplates: 20k
-
-### Monthly
-- Monthly Daily Quest + Waveplates: 75k
-
-### Full Patch (42 Days)
-- Full Patch Daily Quest + Waveplates: 120k
-
----
-
-## Events [layout: accordion]
+## Events [layout: grid]
 
 ### Limited Events
 - Banners Never Fall (All Rewards): 45k
