@@ -1,3 +1,7 @@
+---
+lastUpdated: 29 Jan 2026 01:59 WIB
+---
+
 ## Daily Services [layout: grid]
 
 ### Daily
@@ -394,5 +398,6 @@
 - Stellar Jade 1600 (TL 1-60): 23.5k
 - Stellar Jade 1600 (TL 60+): 33.5k
 - E6 Remembrance MC: 14k
+
 
 
