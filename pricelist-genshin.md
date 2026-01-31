@@ -153,6 +153,510 @@ lastUpdated: 31 Jan 2026 08:40 WIB
 - Build Artifacts: 61.5k
 
 ---
+## World Quest [layout: accordion]
+
+### MONDSTADT
+- A Fine Opportunity?: 9.5k (-5%: 9.5k)
+- A Guest from Liyue: 4k
+- After the Storm: 5k
+- An Ode to Yonder City: 4k
+- Battlefield of Dice, Cats, and Cards: 9.5k
+- Bough Keeper: Dainsleif: 14.5k
+- Break the Sword Cemetery Seal: 14.5k
+- Busy Adventurers’ Guild: 4k
+- Cleanup at Dawn: 5
+- Collector of Anemo Sigil: 5k
+- Equivalent Exchange: 9.5k
+- Every Day a New Adventure: 9.5k
+- Exploding Population: 5k
+- Flighty Flora.. and Flora: 5k
+- In the Aftermath: 9.5k
+- Knight of the Realm: 4k
+- Lingering Malady: 5k
+- Mine Craft: 4k
+- Mondstadt and its Archon: 5k
+- New Horizon of Adventure: 5k
+- Not to be Missed: 4k
+- Question and Answer: 5k
+- Scent on the Wind: 5k
+- Sharpening the Axe won’t Hinder the Work: 5k 
+- Solo Venture: 5k
+- The Art of Cooking: 4k
+- The Blessings of the Seven: 4k
+- Thief-Catcher: 5k
+- Time and Wind: 14.5k
+- Time Waits for No Man: 5k
+- Welcome to the Adventurer’s Guild: 4k
+- Windrise, Windfall: 3k
+
+### DRAGONSPINE
+- A Land Entombed: 19k
+- Ah, Fresh Meat!: 14.5k
+- In the Mountains: 19k
+- Lost in the Snow: 14.5k
+- Low-Temperature Warning: 5k
+- The Festering Fang: 19.5k
+- The Great Mountain Survey I: 9.5kk
+- The Great Mountain Survey II: 9.5k
+- When the Trail Goes Cold: 5k
+
+### LIYUE
+- .. What Do Adventurers Do Again?: 5k
+- A Dish Beyond Mortal Ken: 5k
+- A Little Game: 5k
+- A Lone Ship in Guyun: 9.5k
+- A Provisional Arrangement: 5k
+- A Quiet Day in Liyue Harbor: 5k
+- A Teapot to Call Home: Part I: 9.5k
+- An Adeptal Summon: 9.5k
+- And This Treasure Goes To…: 5k
+- Big Business: 5k
+- Blackliff Woes: 5k
+- Book in the Woods: 3k
+- Changchang’s Little Friends: 3k
+- Endless Research: 5k
+- Fishing for Jade: 5k
+- Garcia’s Paean: 5k
+- Hereafter: The Trail of Pervases: 3k
+- Hereafter: All is Well: 3k
+- Hereafter: Return to the Mountains: 5k
+- Home Lies Over the Ocean: 5k
+- Idle Teapot Talk: 4k
+- Luhua Landscape: 9.5k
+- Ministry Missions: 3k
+- Necessary Procedures: 5k
+- Nine Pillars of Peace: 9.5
+- Old Tastes Die Hard: 5k
+- On the Stage, Behind the Stage: 9.5k
+- Overstretched: 3k
+- Pressing Deadlines: 5k
+- Return of the Jade Chamber?: 5k
+- Share Not Your Treasures: 5k 
+- Snapshots: 5
+- The Adventurers’ Guild’s Affair: 5k
+- The Chi of Yore: 14.5k
+- The Ocean Pearl: 5k
+- The Secret of Nantianmen: 5k
+- The Tales Behind the Fan: 5k
+- The Tree Who Stands Alone: 9.5k 
+- The Yaksha’s Wish: 5k
+- There’s No Restoring This Past Land of Beauty..: 8k
+- Tianqiu Treasure Trail: 5k
+- Trails in Tianqiu: 15k
+- Treasure Lost, Treasure Found: 9.5k
+- Will of Stone: 9.5k
+- Words Worth Their Weight in Mora: 5k
+
+### INAZUMA
+- Sacred Sakura Cleansing Ritual: 28.5k
+- Tatara-Tales: 28.5k
+- Orobashi’s Legacy (Prolog - Part 5): 19k
+- Moon-Bathed Deep: 19k
+- Eye of Watatsumi: 3k
+- Fang of Watatsumi: 3k
+- Fin of Watatsumi: 3k
+- Tail of Watatsumi: 3k
+- Heart of Watatsumi: 8k
+- The Still Water’s Flow: 9.5k
+- Seirai Stormchaser (Part 1 - 4): 19k
+- Through the Mist: 28.5k
+- Battle of Revenge: 5k
+- Chisato’s Letter: 5k
+- Clean House: 5k
+- Divine Plant of the Depths: 9.5k
+- Dreams of Sword Art: 14.5k
+- Fate of A Fighter: 5k
+- Fertilizer.. Salesperson?: 5k
+- Film Notes: 11.5k
+- Gazing Three Thousand Miles Away: 5k
+- Gourmet Supremos: 9.5k
+- Hiromi’s Watch: 9.5k
+- In Another Land: 5k
+- International Travel Log: 7k-9.5k
+- Katheryne in Inazuma: 4k
+- Neko Is A Cat: 19k
+- The Narukami Trail: 4k
+- O Archon, Have I Done Right?: 9.5k
+- Omni-Ubiquity Net: 3k
+- Pizza From Another Land: 5k
+- Relics of Seirai: 9.5k
+- Reminisce of Seirai: 7k
+- Sakura Arborism: 9.5k
+- The Very Special Fortune Slip: 19k
+- Sinister Instruction: 8k
+- Solitary Sea-Beast: 7k
+- Storytelling Method: 14.5k
+- Temaria Game: 3k
+- The Art of Horticulture: 3k
+- The Commission’s Commission: 3k
+- The Farmer’s Treasure: 19k
+- The Ritou Road: 3k
+- The Seventh Samurai: 8k
+- Treatment on the Island: 8k
+- Yae Publishing House’s Invitation: 5k
+- The Saga of Mr. Forgetful: 9.5k
+- Boatman’s Task: 33.5k
+- Abe’s Fungi Needs: 4k
+- A Gift to Shitoki, Wrapped in Conches: 5k
+- Ipe’s Fishing Advice: 3k
+- Lighting Chise’s Path: 7k
+- Kito and Kina’s Request: 5k
+- Nonno’s Hide and Seek: 5k
+- Rero’s Joke: 5k
+- Una’s Longing: 5k
+
+### ENKANOMIYA
+- From Dusk to Dawn in Byakuyakoku: 24k
+- The Entrance to Tokoyo: 5k
+- The Subterranean Trials of Drake and Serpent: 19k
+- The Trail of Drake and Serpent: 9.5k
+- The Heart of Ouroboros: 9.5k
+- Dreams in the Gasp: 9.5k
+- Collection of Dragons and Snakes: 33.5k
+- Antigonus: 5k
+- Date’s Challenge: 14.5k
+- Tricolor File: 5k
+- In the Light, Beneath the Shadow (hidden puzzle chest): 9.5k
+- The Serpent and Drakes of Tokoyokoku Book: 3k
+- Hyperion’s Dirge: 24k
+- The Phaethon’s Syrtos: 9.5k
+- Lotus Eater: 9.5k
+- Erebo’s Secret: 9.5k
+- Kunado’s Trial: 5k
+- Yachimatahiko’s Trial: 5k
+- Yachimatahime’s Trial: 5k
+
+### CHASM
+- The Chasm Delvers: 43k
+- The Chasm Charters: 5k
+- Surreptitious Seven-Star Seal Sundering: 5k
+- Chasm Spelunkers: 9.5k
+- The Heavenly Stone’s Debris: 9.5k
+- Perils in the Dark: 9.5k
+- Wherefore Did the Spiritstone Descend?: 9.5k
+- A Cliff-Side Hero’s Past: 9.5k
+- A Company Vanishing Into the Deep: 9.5k
+- Dimming Mushroom’s Call for Help: 11.5k
+- Hydrological Investigation in The Chasm: 5k
+- Mycological Investigation in The Chasm: 5k
+- Paleontological Investigation in The Chasm: 9.5k
+- Lost in Foreign Land: 9.5k
+- Lost in Foreign Land: Seeking: 9.5k
+- Says He Who Seeks Stone: 14.5k
+- Stolen, by the Rightful Owner: 5k
+- The Millennial Mountains: 14.5k
+- The Missing Miner: 5k
+- Undetected Infiltration: 9.5k
+- Valor’s Afterglow: 7k
+- Valor’s Afterglow: Return by Sundown: 7k
+- Valor’s Afterglow: The Faint Light Remembered: 7k
+
+### SUMERU FOREST
+- 1. Woodland Encounter: 24k
+- The Children of Vimara Village: 5k
+- Into the Woods: 9.5k
+- The Lost Child: 9.5k
+- 2. Dream Nursery: 114k-128.5k
+- The World of Aranara: 9.5k
+- Children of the Forest: 114k
+- Encounter in the Woods: 24k
+- The Rhythm that Leads to the Gloomy Patch: 14.5k
+- The Rhythm that Nurtures the Sprout: 9.5k
+- The Rhythm that Reveals the Beastly Trail: 9.5k
+- Agnihotra Sutra: 24k
+- Varuna Gatha: 24k
+- Vimana Agama: 24k
+- An Unwavering Culinary Dream: 14.5k
+- For A Better Reunion: 3k
+- Festival Utsava: 9.5k
+- 3. Nursery of Lost Dreams: 33.5k
+- For Fruits, Seeds, and Trees: 9.5k
+- For the Children of the Past: 9.5k
+- For All Children Who Long for Life: 14.5k
+- 4. In the End, the Forest Will Remember: 5k
+- Hello, Thank You, and the Final Goodbye: 5k
+- The Bad Guy in Vimara Village: 5k
+- Giving Flowers: 14.5k
+- Mawtiyima’s Final Memory: 14.5k
+- Aragaru’s Drawing: 11.5k
+- Aranakin’s Old Friend: 8k
+- Aranaga’s Memory: 5k
+- Memory’s Final Chapter: 5k
+- Khayyam’s Final Words: 5k
+- Until Vana is Healed: 14.5k
+- Static Views + Part 2: 9.5k
+- A Short Encounter with a Rare Bird: 5k
+- Adventure Takes Courage!: 3k
+- Another Home There May Yet Be: 4k
+- Corps of Thirty Recruitment: 3k
+- Cost-Effective Hook: 5k
+- Courage is in the Heart: 5k
+- Even Beasts Stumble: 5k
+- Garcia’s Paean: A Gift of Compatibility: 5k
+- Gourmet Supremos: Cleanup: 5k
+- Gourmet Supremos: Within Our Duties: 5k
+- Legends of the Stone Lock: 19k
+- The Foolish Fatuus: 19k
+- The Path of Papers: 5k
+- The Price: 5k
+- Treasure of Wisdom: A New Plan: 5k
+- Trees and Dreams: 3k
+- Where Are the Fierce Creatures: 9.5k
+- While the Dream Lingers: 9.5k
+
+### SUMERU GREAT RED SAND DESERT
+- Golden Slumber: 76k
+- Lost in the Sands: 19k
+- An Introduction to Indoor Archaeology: 19k
+- The Secret of Al-Ahmar: 19k
+- Dreams Beneath the Searing Sand: 24k
+- Old Notes, New Friends: 47.5k
+- Dual Evidence: 38k
+- Soheil’s Wish: 19k
+- Invisible Barrier: 8k
+- Hidden Mercenaries: 8k
+- Desert’s Remembrance: 8k
+- A Gifted Rose: 14.5k
+- Afratu’s Dilemma: 9.5k
+- Blooming Sands: 5k
+- Join the Eremites and Embrace a Wonderful New Life!: 5k
+- The Exile: 9.5k
+- The Exile: Sprouting: 3k
+- The Exile: Blooming: 3k
+
+### SUMERU DESERT HADRAMAVETH
+- The Dirge of Bilqis: 81k
+- Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars: 9.5k
+- The Temple Where Sand Flows Like Tears: 19k
+- Dune-Entombed Fecundity: Part I: 14.5k
+- Dune-Entombed Fecundity: Part II: 19k
+- Dune-Entombed Fecundity: Part III: 14.5k
+- The Eternal Dream, Ever Lush: 9.5k
+- The Falcon: 19k
+- Tadhla the Falcon: 5k
+- The Falcon’s Hunt: 9.5k
+- The Fallen Falcon: 5k
+- Apocalypse Lost: 8k
+- Rejoice with me, for What was Lost is Now be Found: 11.5k
+- Her Foes Rage Like Great Waters..: 14.5k
+- Behold, the Sign Comes Like a Thief: 5k
+- Make Bright the Arrows, Gather the Shields: 5k
+- For Her Judgement Reaches to the Skies: 5k
+
+### SUMERU GIRDLE SAND DESERT
+- Khvarena of Good and Evil: 85.5k
+- The Splendorous Sky That Day: 14.5k
+- Asipattravana Itihasa: 9.5k
+- Awakening’s Real Sound: 19k
+- As the Khvarena’s Light Shows: 33.5k
+- Samudaya: 9.5k
+- Dukkha: 9.5k
+- Nirodha: 14.5k
+- The Hymn of Tir Yazad (Part 1): 9.5k
+- The Hymn of Tir Yazad (Part 2): 19k
+- An Artist Adrift: 14.5k
+- Heart of Amrita: 3k
+- Lightcall Resonance: 9.5k
+- Monumental Study: 14.5k
+- Investigate the Fatui Camps Marked by Sosi: 11.5k
+- Search for the Lost Monument Fragments: 5k
+- Pale Fire: 19k
+
+### FONTAINE 4.0
+- In expert company 1: 5k
+- In expert company 2: 3k
+- Semi-automatic forging: 3k
+- Truly mouthwatering!: 8k
+- Still mouthwatering!: 5k
+- The fountain flows again: 3k
+- The three primary colours: 5k
+- Upon a flowery field of grass: 8k
+- A certain trifle: 3k
+- A certain stamp: 3k
+- Fishing game: 5k
+- Strange stone chronicle 1: 5k
+- Strange stone chronicle 2: 5k
+- A certain notice: 3k
+- Ancient colours: 47.5k
+- A brush of seafom and crimson: 19k
+- A gradient of dreams and ochre: 19k
+- Blue longing of heart and moon: 9.5k
+- A Fontainian message: 5k
+- Ann of the Narzissenkreuz: 47.5k
+- The Narzissenkreuz adventure: 19k
+- Kingdom through the looking glass: 19k
+- If she no longer dreams of you: 8k
+- Aquaeus Tidemark: 14.5k
+- Hey, this isn’t pumpkin soup...: 14.5k
+- Echoes of the ancient world: 19k
+- The lone phantom sail: 9.5k
+- Were it so easy (2 days): 8k
+- Danger lurks everywhere: 4k
+- Good stuff, but terrible taste: 28.5k
+- The Final question: 5k
+- Unfinished story: 5k
+
+### FONTAINE 4.1
+- Unfinished Comedy: 47.5k
+- Game of the rich: 24k
+- An Eye for an eye: 19k
+- Hereafter: 5k
+- Coupon only: 33.5k
+- In the wake of narcissus: 47.5k
+- Search in the algae sea: 19k-28.5k
+- Muse’s Mother: 5k
+- Meteoric Lance: 5k
+- Cupid’s Lover: 5k
+- Thalia and Malpomene: 8k
+- Savior wake: 14.5k
+- Waking from great dream: 14.5k
+- Rowboat’s wake: 5k
+- The wild fairy of erinnyes: 24k
+- Foggy forest path: 5k
+- Wilting weeping willow: 5k
+- Furious Mouth of spring: 5k
+- Within the depth of erinnyes: 9.5k
+- Quesioning Melusing and machine: 33.5k-38k
+- Vagrants and Scamps: 14.5k
+- The Red and Black: 9.5k
+- Questions and answers: 14.5k
+- Fontaine research institute chronicles: 43k
+- A letter: 4k
+- In search of lost time: 19k
+- Central Processing station: 5k
+- Road to singularity: 14.5k
+- An eye for an eye: 14.5k
+- Initial facts: 3k
+- An expected lie: 9.5k
+- An expected plan: 14.5k
+- Free verse: 9.5k
+- Impromptu Poem: 14.5k
+- Through the looking glass: 24k
+- Villains: 9.5k
+- Both brains and brawns: 24k
+- Our purpose in in another canal: 19k
+- Treacherous lights of the depth: 14.5k
+
+### CHENYU VALE
+- Chenyu’s Blessings of Sunken Jade: 47.5k
+- Qiaoying of the Sacred Mountain: 14.5k
+- Floating Jade, Treasure of Chenyu: 19k
+- An Ancient Sacrifice of Sacred Brocade: 19k
+- Wangshan (All 3 parts): 24k (A) / 19k (B)
+- A Wangshan Walk to Remember: 9.5k (A / B)
+- Scrolls and Sword Manuals of Guhua: 5k (A / B)
+- Shrouded Vale, Hidden Hero: 14.5k (A) / 9.5k (B)
+- Chili Con Cloudy: 5k
+- Our Chenyu Vale Trek: 5k
+- Qiaoying, the Village of Many Tales: 5k
+- Silently the Butterfly Crosses the Valley: 9.5k
+- Temporary Acclimatization: 5k
+- The Cloud-Padded Path to the Chiwang Repose: 3k-5k
+- The Dealing Sands: 5k
+- The Roaming Abode: 5k
+- Threefold Expectation: 14.5k
+- Ancestor Mystery: 14.5k
+
+### SEA OF BYGONE ERA (NOSTOI)
+- Canticles over Harmony: 47.5k
+- The shadow over petrichore: 9.5k
+- Underwater Nocturne: 5k
+- The last day of Remuria: 9.5k
+- Gradus ad capitolum: 9.5k
+- Fortune Plango Vulnera: 9.5k
+- For Yesterday and Tomorrow: 4k
+- Latecoming Homecoming: 8k
+
+### NATLAN
+- A Hero’s rite: 5k
+- A Mysterious Visitor From Huitztlan: 9.5k
+- Yunpanqui Turnfire act 3: 14.5k
+- The Call Of Mystical Martial Arts: 5k
+- The Case Of The Crafting Bench: 14.5k
+- Shadows of The Mountains (all clear): 33.5k
+- Beneath the crystal rock: 19k
+- Peace to the slumbering: 14.5k
+- Tepettli Dissonance: 5k
+- Hoarse Echoes: 5k
+- To Wish Upon A Star: 4k-6k
+- Between Pledge And Forgettance (all clear): 28.5k
+- Lost in the woods: 5k
+- Rite of the bold: 5k
+- Revelations of the past: 19k
+- In the Footsteps of The Chosen Of Dragons (all clear): 43k
+- Ripe for Trouble: 9.5k
+- To The Night, What Is The Night's: 14.5k
+- Tale Of Dreams Plucked From Fire (all clear): 24k
+- Tracer: 14.5k
+- Seeker: 11.5k
+- Stride On Rainbows, Split The Waves: 9.5k
+- Those Searching for the Mysterious Island: 5k
+- The Legend of The Mysterious Island: 7k
+- Where the springs return act 3: 14.5k
+- City buried by ash: 9.5k
+- A Dream of Gazing Upon the Distant Sky: 19k
+- The Tonatiuh Quivers & The Chosen One's Promise: 24k
+- The Mystery of Tecoloapan Beach: 14.5k
+- Magnifico 1: Dancing in the moonlight: 5k
+- Magnifico 2: Come fly with me: 4k
+- Magnifico 3: Stand by me: 5k
+- Open Your Heart to Me: 19k
+- The Lone Isle Named Night: 9.5k
+- Sauro Vet’s Dilemma: 5k
+- Stones, Coconut’s and Dragon Traffickers: 8k
+- Friends of Fire and water: 5k
+- Twisted Extension: 14.5k
+- Tribal Chronicles 5.2 Natlan (per act): 5k / 5k / 14.5k
+- A Saurian Returns to the Nest: 5k
+- Change Forward Go! Go! Go!: 5k
+- Molting Season: 7k
+- Every Aspect of a Warrior: 5k
+- From One Case to another: 19k
+- Trials of Disembodiment: 5k + 5k + 5k
+- Legendary Bird Mural Puzzle: 3k each, 8.5k all clear
+- 5 Furnace Fiery Embers: 5k / spot, 24k all clear
+- The Lost Holy City and The Millenium Seeker: 7k each part
+- Path to the Flaming Peaks: 5k
+- The Frozen Rekindling City (each part): 14.5k
+- In Search of Hidden Heart (range all clear part b): 41k-43k
+- As The Burning Sears Shadows: 14.5k
+- A Finale Emberforged: 9.5k
+- The Attack of the… purple tepetlisaurus: 5k
+- In The Footstep of Chosen Dragon (each part): 5k
+- Sing, Ho, For the Greatness of Fat: 5k
+- Cari 8pcs tepetlisaurus buat buka warrior challenge: 5k
+- Trace of chroma: 9.5k
+- Shine on, pipilpan idol!: 8k
+- Strange encounter of the tete isle kind: 5k
+- Dreamy Paititi: 8k
+- Encounter always happen on a holiday: 5k
+- All good reunion follow a search: 8k
+- The last survivor of tenoch: 14.5k
+- Dissapeared dolls: 2k
+
+### NOD KRAI
+- Team rigor or team intiution: 19k
+- Whisper Beneath the Waves: 9.5k
+- The Power of Research: 14.5k
+- Polkka Beneath the Moon's Oracle: 14.5k
+- The Tale of the Gate Stone: 5k
+- Gift of the Mirage: 5k
+- The Mirrors, the Maze, and the Tsar: 9.5k
+- Echoes of an Unfinished Past: 9.5k
+- Colors of Emptiness (Crimson Cleansing): 5k
+- Blues of the Old World: 5k
+- Colors Out of Space: 5k
+- The Shoemaker's Children Go Barefoot: 24k
+- The Stress of Changing Careers: 14.5k
+- The Bell of Mourning Echoes (Hidden Quest): 14.5k
+- Drifting Toward a Promised Sky: 9.5k
+- Priorities First: 9.5k
+- The tale telling hearts: 19k
+- Blessing of the frost moon: 9.5k
+- Problem solving robot: 9.5k
+- To the lighthouse: 9.5k
+
+---
 
 ## Farming & Materials [layout: grid]
 
@@ -337,12 +841,6 @@ lastUpdated: 31 Jan 2026 08:40 WIB
 
 ## Events [layout: grid]
 
-### Soulblazers’ Snowbound Journey
-- All Clear Event: 71k
-- Mini Games Only: 57k
-- Quest Only: 23.5k
-- Mini-game Snowtrace (All Clear): 19k
-- Mini-game Frontline Recon (All Clear): 11k
-- Mini-game Jade Pitching (All Clear): 11k
-- Mini-game Trial of Valor (All Clear): 19k
+### EVENT TERBARU 
+- Harga by: PM
 
