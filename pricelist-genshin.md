@@ -156,7 +156,7 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 ## World Quest [layout: accordion]
 
 ### MONDSTADT
-- A Fine Opportunity?: 9.5k (-5%: 9.5k)
+- A Fine Opportunity?: 9.5k
 - A Guest from Liyue: 4k
 - After the Storm: 5k
 - An Ode to Yonder City: 4k
@@ -843,5 +843,6 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
