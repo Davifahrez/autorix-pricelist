@@ -38,6 +38,65 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 
 ---
 
+## Archon Quest [layout: accordion]
+### Mondstadt [Bundle: 36k]
+- Act 1: 13.5k
+- Act 2: 13.5k
+- Act 3: 13.5k
+
+### Liyue [Bundle: 40k]
+- Act 1: 13.5k
+- Act 2: 13.5k
+- Act 3: 13.5k
+
+### Inazuma [Bundle: 70k]
+- Prelude: 13.5k
+- Act 1: 18k
+- Act 2: 18k
+- Act 3: 22.5k
+
+### Sumeru [Bundle: 125k]
+- Act 1: 22.5k
+- Act 2: 22.5k
+- Act 3: 22.5k
+- Act 4: 27k
+- Act 5: 31.5k
+
+### Fontaine [Bundle: 155k]
+- Act 1: 27k
+- Act 2: 27k
+- Act 3: 27k
+- Act 4: 27k
+- Act 5: 27k
+- Act 6: 22.5k
+
+### Natlan [Bundle: 160k]
+- Act 1: 27k
+- Act 2: 31.5k
+- Act 3: 27k
+- Act 4: 40.5k
+- Act 5: 36k
+
+### Nod Krai [Bundle: 240k]
+- Act 1: 36k
+- Act 2: 31.5k
+- Act 3: 22.5k
+- Act 4: 40.5k
+- Act 5: 22.5k
+- Act 6: 31.5k
+- Act 7: 29k
+- Act 8: 33k
+
+---
+
+## Aranara [layout: grid]
+
+### Aranara Saga [Bundle: 142.5k]
+- Book Aranyaka: 71k
+- 76 Aranara Hunt: 76k
+
+---
+
 ## Exploration Maps [layout: accordion]
 
 ### GLOBAL EXPLORATION [Bundle: 2945k]
@@ -126,64 +185,7 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 - Lumenspar: 61.5k
 
 ---
-## Archon Quest [layout: accordion]
-### Mondstadt [Bundle: 36k]
-- Act 1: 13.5k
-- Act 2: 13.5k
-- Act 3: 13.5k
 
-### Liyue [Bundle: 40k]
-- Act 1: 13.5k
-- Act 2: 13.5k
-- Act 3: 13.5k
-
-### Inazuma [Bundle: 70k]
-- Prelude: 13.5k
-- Act 1: 18k
-- Act 2: 18k
-- Act 3: 22.5k
-
-### Sumeru [Bundle: 125k]
-- Act 1: 22.5k
-- Act 2: 22.5k
-- Act 3: 22.5k
-- Act 4: 27k
-- Act 5: 31.5k
-
-### Fontaine [Bundle: 155k]
-- Act 1: 27k
-- Act 2: 27k
-- Act 3: 27k
-- Act 4: 27k
-- Act 5: 27k
-- Act 6: 22.5k
-
-### Natlan [Bundle: 160k]
-- Act 1: 27k
-- Act 2: 31.5k
-- Act 3: 27k
-- Act 4: 40.5k
-- Act 5: 36k
-
-### Nod Krai [Bundle: 240k]
-- Act 1: 36k
-- Act 2: 31.5k
-- Act 3: 22.5k
-- Act 4: 40.5k
-- Act 5: 22.5k
-- Act 6: 31.5k
-- Act 7: 29k
-- Act 8: 33k
-
----
-
-## Aranara [layout: grid]
-
-### Aranara Saga [Bundle: 142.5k]
-- Book Aranyaka: 71k
-- 76 Aranara Hunt: 76k
-
----
 
 ## Character Building [layout: grid]
 
@@ -884,6 +886,7 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
 
