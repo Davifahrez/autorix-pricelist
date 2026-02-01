@@ -137,7 +137,7 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 - Act 2: 13.5k
 - Act 3: 13.5k
 
-### Inazuma [Bundle: 70]
+### Inazuma [Bundle: 70k]
 - Prelude: 13.5k
 - Act 1: 18k
 - Act 2: 18k
@@ -158,14 +158,14 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 - Act 5: 27k
 - Act 6: 22.5k
 
-### Natlan [Bundle: 160]
+### Natlan [Bundle: 160k]
 - Act 1: 27k
 - Act 2: 31.5k
 - Act 3: 27k
 - Act 4: 40.5k
 - Act 5: 36k
 
-### Nod Krai [Bundle: 240]
+### Nod Krai [Bundle: 240k]
 - Act 1: 36k
 - Act 2: 31.5k
 - Act 3: 22.5k
@@ -884,6 +884,7 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
 
