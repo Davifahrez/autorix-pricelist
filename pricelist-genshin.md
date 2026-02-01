@@ -126,17 +126,56 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 - Lumenspar: 61.5k
 
 ---
+## Archon Quest [layout: accordion]
+### Mondstadt (ALL CLEAR): 36k
+- Act 1: 13.5k
+- Act 2: 13.5k
+- Act 3: 13.5k
 
-## Story & Quests [layout: accordion]
+### Liyue
+- Act 1: 13.5k
+- Act 2: 13.5k
+- Act 3: 13.5k
 
-### Main Story
-- Archon Quest (Per Act): 14k
-- Character Quest: 12k
-- Hangout Event (All Endings): 14k
+### Inazuma
+- Prelude: 13.5k
+- Act 1: 18k
+- Act 2: 18k
+- Act 3: 22.5k
 
-### World Quests
-- World Quest (Long): 23.5k
-- World Quest (Short): 4.5k
+### Sumeru
+- Act 1: 22.5k
+- Act 2: 22.5k
+- Act 3: 22.5k
+- Act 4: 27k
+- Act 5: 31.5k
+
+### Fontaine
+- Act 1: 27k
+- Act 2: 27k
+- Act 3: 27k
+- Act 4: 27k
+- Act 5: 27k
+- Act 6: 22.5k
+
+### Natlan
+- Act 1: 27k
+- Act 2: 31.5k
+- Act 3: 27k
+- Act 4: 40.5k
+- Act 5: 36k
+
+### Nod Krai
+- Act 1: 36k
+- Act 2: 31.5k
+- Act 3: 22.5k
+- Act 4: 40.5k
+- Act 5: 22.5k
+- Act 6: 31.5k
+
+---
+
+## Aranara [layout: grid]
 
 ### Aranara Saga [Bundle: 142.5k]
 - Book Aranyaka: 71k
@@ -843,6 +882,7 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
 
