@@ -127,30 +127,30 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 
 ---
 ## Archon Quest [layout: accordion]
-### Mondstadt (ALL CLEAR): 36k
+### Mondstadt [Bundle: 36k]
 - Act 1: 13.5k
 - Act 2: 13.5k
 - Act 3: 13.5k
 
-### Liyue
+### Liyue [Bundle: 40k]
 - Act 1: 13.5k
 - Act 2: 13.5k
 - Act 3: 13.5k
 
-### Inazuma
+### Inazuma [Bundle: 70]
 - Prelude: 13.5k
 - Act 1: 18k
 - Act 2: 18k
 - Act 3: 22.5k
 
-### Sumeru
+### Sumeru [Bundle: 125k]
 - Act 1: 22.5k
 - Act 2: 22.5k
 - Act 3: 22.5k
 - Act 4: 27k
 - Act 5: 31.5k
 
-### Fontaine
+### Fontaine [Bundle: 155k]
 - Act 1: 27k
 - Act 2: 27k
 - Act 3: 27k
@@ -158,20 +158,22 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 - Act 5: 27k
 - Act 6: 22.5k
 
-### Natlan
+### Natlan [Bundle: 160]
 - Act 1: 27k
 - Act 2: 31.5k
 - Act 3: 27k
 - Act 4: 40.5k
 - Act 5: 36k
 
-### Nod Krai
+### Nod Krai [Bundle: 240]
 - Act 1: 36k
 - Act 2: 31.5k
 - Act 3: 22.5k
 - Act 4: 40.5k
 - Act 5: 22.5k
 - Act 6: 31.5k
+- Act 7: 29k
+- Act 8: 33k
 
 ---
 
@@ -882,6 +884,7 @@ lastUpdated: 31 Jan 2026 09:20 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
 
