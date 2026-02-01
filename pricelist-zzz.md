@@ -10,15 +10,15 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 - Daily + 300 Charge: 8k
 
 ### Weekly Cycle (7 Days)
-- Daily Only (No Charge): 20k
-- Daily + 240 Charge: 50k
-- Daily + 300 Charge: 62.5k
+- Daily Only (No Charge): 21k
+- Daily + 240 Charge: 42k
+- Daily + 300 Charge: 56k
 - Daily + Hollow Zero x1: 90k
 - Daily + HZ x2 + BP: 105k
 
 ### Monthly Pass (30 Days)
-- Daily Only (No Charge): 85k
-- Daily + 240 Charge: 192k
+- Daily Only (No Charge): 90k
+- Daily + 240 Charge: 180k
 - Daily + 300 Charge: 240k
 - Daily + Hollow Zero x1: 360k
 - Daily + HZ x2 + BP: 410k
@@ -219,6 +219,7 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 - Critical 4-6: 70k
 - Critical 7: 110k
 - All Clear Critical: 160k
+
 
 
 
