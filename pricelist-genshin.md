@@ -5,34 +5,29 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 ## Daily Services [layout: grid]
 
 ### Daily Commissions
-- Daily Comms: 4.5k
+- Daily Comms Only: 4.5k
 - Daily Comms + 240 Resin: 5.5k
 - Daily Comms + 300 Resin: 6.5k
 
-### Weekly Cycle
-- Daily Comms Only: 28.5k
-- Daily Comms + 240 Resin: 47.5k
-- Daily Comms + 300 Resin: 54.5k
-- Daily + Resin + 3× Boss: 61.5k
-- Daily + Resin + Boss + BP: 85.5k
+### Weekly Cycle (7 Hari)
+- Daily Comms Only: 27k
+- Daily Comms + 240 Resin: 33k
+- Daily Comms + 300 Resin: 39k
 
-### Monthly Pass
-- Daily Comms Only: 123.5k
-- Daily Comms + 240 Resin: 190k
-- Daily Comms + 300 Resin: 195k
-- Daily + Resin + 3× Boss: 247k
-- Daily + Resin + Boss + BP: 318k
+### Monthly Pass (30 Hari)
+- Daily Comms Only: 126k
+- Daily Comms + 240 Resin: 154k
+- Daily Comms + 300 Resin: 182k
 
-### Full Patch (45 Days)
-- Daily Comms Only: 190k
-- Daily Comms + 240 Resin: 285k
-- Daily Comms + 300 Resin: 292.5k
-- Daily + Resin + 3× Boss: 342k
-- Daily + Resin + Boss + BP: 427.5k
+### Full Patch (45 Hari)
+- Daily Comms Only: 180k
+- Daily Comms + 240 Resin: 220k
+- Daily Comms + 300 Resin: 260k
 
-### Boss Runs & Utilities
+### Addons & Utilities
+- 3× Boss (per minggu): +12k
+- Battlepass (per pass): +35k
 - World Boss (Per Run): 2.5k
-- World Boss (Package, Per Run): 1.5k
 - Weekly Boss (Per Run): 4.5k
 - Cek Pity (incl SS + link): 1.5k
 
@@ -886,6 +881,7 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
 
