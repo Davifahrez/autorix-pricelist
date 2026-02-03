@@ -6,24 +6,27 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 
 ### Daily
 - Daily Only (No TP): 3k
-- Daily + 180 TP: 5.5k
 - Daily + 240 TP: 7.5k
 - Daily + 300 TP: 11.5k
 
-### Weekly Cycle
-- Daily Only (No TP): 28.5k
-- Daily + 240 TP: 62k
-- Daily + SU/DU: 123.5k
+### Weekly Cycle (7 Hari)
+- Daily Only (No TP): 18k
+- Daily + 240 TP: 45k
+- Daily + 300 TP: 69k
 
 ### Monthly Pass (30 Hari)
-- Daily Only (No TP): 81k
-- Daily + 240 TP: 119k
-- Daily + SU/DU: 147.5k
+- Daily Only (No TP): 84k
+- Daily + 240 TP: 210k
+- Daily + 300 TP: 322k
 
 ### Full Patch (45 Hari)
-- Daily Only (No TP): 109.5k
-- Daily + 240 TP: 147.5k
-- Daily + SU/DU: 195k
+- Daily Only (No TP): 120k
+- Daily + 240 TP: 300k
+- Daily + 300 TP: 460k
+
+### Add-ons
+- Add-on SU/DU (per reset, 2 minggu): +20k
+- Add-on Battlepass (per pass): +35k
 
 ---
 
@@ -398,6 +401,7 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 - Stellar Jade 1600 (TL 1-60): 23.5k
 - Stellar Jade 1600 (TL 60+): 33.5k
 - E6 Remembrance MC: 14k
+
 
 
 
