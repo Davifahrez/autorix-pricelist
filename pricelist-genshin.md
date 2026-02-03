@@ -10,25 +10,25 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 - Daily Comms + 300 Resin: 6.5k
 
 ### Weekly Cycle
-- Weekly – Daily Comms Only: 28.5k
-- Weekly – Daily Comms + 240 Resin: 47.5k
-- Weekly – Daily Comms + 300 Resin: 54.5k
-- Weekly – Daily + Resin + 3× Boss: 61.5k
-- Weekly – Daily + Resin + Boss + BP: 85.5k
+- Daily Comms Only: 28.5k
+- Daily Comms + 240 Resin: 47.5k
+- Daily Comms + 300 Resin: 54.5k
+- Daily + Resin + 3× Boss: 61.5k
+- Daily + Resin + Boss + BP: 85.5k
 
 ### Monthly Pass
-- Monthly – Daily Comms Only: 123.5k
-- Monthly – Daily Comms + 240 Resin: 190k
-- Monthly – Daily Comms + 300 Resin: 195k
-- Monthly – Daily + Resin + 3× Boss: 247k
-- Monthly – Daily + Resin + Boss + BP: 318k
+- Daily Comms Only: 123.5k
+- Daily Comms + 240 Resin: 190k
+- Daily Comms + 300 Resin: 195k
+- Daily + Resin + 3× Boss: 247k
+- Daily + Resin + Boss + BP: 318k
 
 ### Full Patch (45 Days)
-- Full Patch – Daily Comms Only: 190k
-- Full Patch – Daily Comms + 240 Resin: 285k
-- Full Patch – Daily Comms + 300 Resin: 292.5k
-- Full Patch – Daily + Resin + 3× Boss: 342k
-- Full Patch – Daily + Resin + Boss + BP: 427.5k
+- Daily Comms Only: 190k
+- Daily Comms + 240 Resin: 285k
+- Daily Comms + 300 Resin: 292.5k
+- Daily + Resin + 3× Boss: 342k
+- Daily + Resin + Boss + BP: 427.5k
 
 ### Boss Runs & Utilities
 - World Boss (Per Run): 2.5k
@@ -886,6 +886,7 @@ lastUpdated: 1 Feb 2026 17:37 WIB
 
 ### EVENT TERBARU 
 - Harga by: PM
+
 
 
 
