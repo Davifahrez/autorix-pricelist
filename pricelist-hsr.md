@@ -13,17 +13,17 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 ### Weekly Cycle
 - Daily Only (No TP): 28.5k
 - Daily + 240 TP: 62k
-- Full Week + SU/DU: 123.5k
+- Daily + SU/DU: 123.5k
 
 ### Monthly Pass (30 Hari)
 - Daily Only (No TP): 81k
 - Daily + 240 TP: 119k
-- Full Monthly + SU/DU: 147.5k
+- Daily + SU/DU: 147.5k
 
 ### Full Patch (45 Hari)
 - Daily Only (No TP): 109.5k
 - Daily + 240 TP: 147.5k
-- Full Patch + SU/DU: 195k
+- Daily + SU/DU: 195k
 
 ---
 
@@ -398,6 +398,7 @@ lastUpdated: 29 Jan 2026 01:59 WIB
 - Stellar Jade 1600 (TL 1-60): 23.5k
 - Stellar Jade 1600 (TL 60+): 33.5k
 - E6 Remembrance MC: 14k
+
 
 
 
